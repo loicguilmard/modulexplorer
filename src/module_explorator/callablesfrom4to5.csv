@@ -1,0 +1,890 @@
+Object full path in v4, Object full path in v5
+pymodaq.control_modules.daq_move, didnt move
+pymodaq.control_modules.daq_move_ui, didnt move
+pymodaq.control_modules.daq_viewer, didnt move
+pymodaq.control_modules.daq_viewer_ui, didnt move
+pymodaq.control_modules.mocks, didnt move
+pymodaq.control_modules.move_utility_classes, didnt move
+pymodaq.control_modules.utils, pymodaq_utils.utils.utils
+pymodaq.control_modules.viewer_utility_classes, didnt move
+pymodaq.control_modules.daq_move.ACTUATOR_TYPES, didnt move
+pymodaq.control_modules.daq_move.ActuatorError, didnt move
+pymodaq.control_modules.daq_move.DAQ_Move, didnt move
+pymodaq.control_modules.daq_move.DAQ_Move_Actuators, didnt move
+pymodaq.control_modules.daq_move.DAQ_Move_Hardware, didnt move
+pymodaq.control_modules.daq_move.DAQ_Move_UI, didnt move
+pymodaq.control_modules.daq_move.DAQ_Move_base, didnt move
+pymodaq.control_modules.daq_move.DataActuator, didnt move
+pymodaq.control_modules.daq_move.DataActuatorType, didnt move
+pymodaq.control_modules.daq_move.DataFromPlugins, didnt move
+pymodaq.control_modules.daq_move.DataRaw, pymodaq_data.data.DataRaw
+pymodaq.control_modules.daq_move.DataToExport, pymodaq_data.data.DataToExport
+pymodaq.control_modules.daq_move.DataUnitError, pymodaq_data.data.DataUnitError
+pymodaq.control_modules.daq_move.LECOMoveCommands, didnt move
+pymodaq.control_modules.daq_move.MoveActorListener, didnt move
+pymodaq.control_modules.daq_move.MoveCommand, didnt move
+pymodaq.control_modules.daq_move.Node, pymodaq_data.h5modules.backends.Node
+pymodaq.control_modules.daq_move.ParameterControlModule, didnt move
+pymodaq.control_modules.daq_move.QTimer, didnt move
+pymodaq.control_modules.daq_move.STATUS_WAIT_TIME, didnt move
+pymodaq.control_modules.daq_move.ThreadCommand, pymodaq_utils.utils.ThreadCommand
+pymodaq.control_modules.daq_move.Type, didnt move
+pymodaq.control_modules.daq_move.check_units, pymodaq_data.data.check_units
+pymodaq.control_modules.daq_move.config, pymodaq_utils.config.config
+pymodaq.control_modules.daq_move.config_mod, pymodaq_utils.config.config_mod
+pymodaq.control_modules.daq_move.daq_move_params, didnt move
+pymodaq.control_modules.daq_move.deprecation_msg, pymodaq_utils.warnings.deprecation_msg
+pymodaq.control_modules.daq_move.get_module_name, pymodaq_utils.logger.get_module_name
+pymodaq.control_modules.daq_move.get_splash_sc, pymodaq_gui.utils.splash.get_splash_sc
+pymodaq.control_modules.daq_move.ioxml, pymodaq_gui.parameter.ioxml.ioxml
+pymodaq.control_modules.daq_move.main, pymodaq_gui.examples.data_picker.main
+pymodaq.control_modules.daq_move.module_saving, didnt move
+pymodaq.control_modules.daq_move.putils, pymodaq_gui.parameter.utils.putils
+pymodaq.control_modules.daq_move.randint, didnt move
+pymodaq.control_modules.daq_move.set_logger, pymodaq_utils.logger.set_logger
+pymodaq.control_modules.daq_move_ui.Config, pymodaq_utils.config.Config
+pymodaq.control_modules.daq_move_ui.ControlModuleUI, didnt move
+pymodaq.control_modules.daq_move_ui.CustomApp, pymodaq_gui.utils.custom_app.CustomApp
+pymodaq.control_modules.daq_move_ui.DataWithAxes, pymodaq_data.data.DataWithAxes
+pymodaq.control_modules.daq_move_ui.DimensionalityError, didnt move
+pymodaq.control_modules.daq_move_ui.DockArea, pymodaq_gui.utils.dock.DockArea
+pymodaq.control_modules.daq_move_ui.LabelWithFont, pymodaq_gui.utils.widgets.label.LabelWithFont
+pymodaq.control_modules.daq_move_ui.PushButtonIcon, pymodaq_gui.utils.widgets.push.PushButtonIcon
+pymodaq.control_modules.daq_move_ui.QComboBox, didnt move
+pymodaq.control_modules.daq_move_ui.QGridLayout, didnt move
+pymodaq.control_modules.daq_move_ui.QHBoxLayout, didnt move
+pymodaq.control_modules.daq_move_ui.QLED, pymodaq_gui.utils.widgets.qled.QLED
+pymodaq.control_modules.daq_move_ui.QSpinBox_ro, pymodaq_gui.utils.widgets.spinbox.QSpinBox_ro
+pymodaq.control_modules.daq_move_ui.QToolBar, didnt move
+pymodaq.control_modules.daq_move_ui.QVBoxLayout, didnt move
+pymodaq.control_modules.daq_move_ui.ViewerDispatcher, pymodaq_gui.plotting.data_viewers.viewer.ViewerDispatcher
+pymodaq.control_modules.daq_viewer.Axis, pymodaq_data.data.Axis
+pymodaq.control_modules.daq_viewer.DAQTypesEnum, didnt move
+pymodaq.control_modules.daq_viewer.DAQ_Detector, didnt move
+pymodaq.control_modules.daq_viewer.DAQ_Viewer, didnt move
+pymodaq.control_modules.daq_viewer.DAQ_Viewer_UI, didnt move
+pymodaq.control_modules.daq_viewer.DAQ_Viewer_base, didnt move
+pymodaq.control_modules.daq_viewer.DET_TYPES, didnt move
+pymodaq.control_modules.daq_viewer.DataDistribution, pymodaq_data.data.DataDistribution
+pymodaq.control_modules.daq_viewer.DetectorError, didnt move
+pymodaq.control_modules.daq_viewer.Dock, pymodaq_gui.utils.dock.Dock
+pymodaq.control_modules.daq_viewer.H5Saver, pymodaq_gui.h5modules.saving.H5Saver
+pymodaq.control_modules.daq_viewer.LCD, pymodaq_gui.utils.widgets.lcd.LCD
+pymodaq.control_modules.daq_viewer.LECOClientCommands, didnt move
+pymodaq.control_modules.daq_viewer.ViewerActorListener, didnt move
+pymodaq.control_modules.daq_viewer.ViewerBase, pymodaq_gui.plotting.data_viewers.base.ViewerBase
+pymodaq.control_modules.daq_viewer.ViewersEnum, pymodaq_gui.plotting.data_viewers.base.ViewersEnum
+pymodaq.control_modules.daq_viewer.browse_data, pymodaq_gui.h5modules.browsing.browse_data
+pymodaq.control_modules.daq_viewer.daq_viewer_params, didnt move
+pymodaq.control_modules.daq_viewer.enum_checker, pymodaq_utils.enums.enum_checker
+pymodaq.control_modules.daq_viewer.get_set_local_dir, pymodaq_utils.config.get_set_local_dir
+pymodaq.control_modules.daq_viewer.get_viewer_plugins, didnt move
+pymodaq.control_modules.daq_viewer.prepare_docks, didnt move
+pymodaq.control_modules.daq_viewer.select_file, pymodaq_gui.utils.file_io.select_file
+pymodaq.control_modules.daq_viewer_ui.ViewerFactory, pymodaq_gui.plotting.data_viewers.viewer.ViewerFactory
+pymodaq.control_modules.daq_viewer_ui.viewer_factory, pymodaq_gui.plotting.data_viewers.viewer.viewer_factory
+pymodaq.control_modules.mocks.ActuatorSaver, didnt move
+pymodaq.control_modules.mocks.DetectorSaver, didnt move
+pymodaq.control_modules.mocks.MockDAQMove, didnt move
+pymodaq.control_modules.mocks.MockDAQViewer, didnt move
+pymodaq.control_modules.mocks.MockScan, didnt move
+pymodaq.control_modules.mocks.ModulesManagerMock, didnt move
+pymodaq.control_modules.mocks.ScanSaver, didnt move
+pymodaq.control_modules.mocks.saving, pymodaq_gui.h5modules.saving.saving
+pymodaq.control_modules.move_utility_classes.BaseEnum, pymodaq_utils.enums.BaseEnum
+pymodaq.control_modules.move_utility_classes.DAQ_Move_TCP_server, didnt move
+pymodaq.control_modules.move_utility_classes.DeSerializer, didnt move
+pymodaq.control_modules.move_utility_classes.MOVE_COMMANDS, didnt move
+pymodaq.control_modules.move_utility_classes.OffsetUnitCalculusError, didnt move
+pymodaq.control_modules.move_utility_classes.Serializer, didnt move
+pymodaq.control_modules.move_utility_classes.Socket, didnt move
+pymodaq.control_modules.move_utility_classes.TCPServer, didnt move
+pymodaq.control_modules.move_utility_classes.TYPE_CHECKING, didnt move
+pymodaq.control_modules.move_utility_classes.comon_parameters, didnt move
+pymodaq.control_modules.move_utility_classes.comon_parameters_fun, didnt move
+pymodaq.control_modules.move_utility_classes.configmod, pymodaq_utils.config.configmod
+pymodaq.control_modules.move_utility_classes.find_keys_from_val, pymodaq_utils.utils.find_keys_from_val
+pymodaq.control_modules.move_utility_classes.getLineInfo, pymodaq_utils.utils.getLineInfo
+pymodaq.control_modules.move_utility_classes.params, didnt move
+pymodaq.control_modules.move_utility_classes.perf_counter, didnt move
+pymodaq.control_modules.move_utility_classes.tcp_parameters, didnt move
+pymodaq.control_modules.utils.ActorListener, didnt move
+pymodaq.control_modules.utils.ControlModule, didnt move
+pymodaq.control_modules.utils.DAQ_TYPES, didnt move
+pymodaq.control_modules.utils.LECOCommands, didnt move
+pymodaq.control_modules.utils.ParameterManager, pymodaq_gui.managers.parameter_manager.ParameterManager
+pymodaq.control_modules.utils.TCPClient, didnt move
+pymodaq.control_modules.utils.ViewerError, pymodaq_gui.plotting.data_viewers.base.ViewerError
+pymodaq.control_modules.utils.find_dict_in_list_from_key_val, pymodaq_utils.utils.find_dict_in_list_from_key_val
+pymodaq.control_modules.utils.get_base_logger, pymodaq_utils.logger.get_base_logger
+pymodaq.control_modules.utils.get_plugins, didnt move
+pymodaq.control_modules.viewer_utility_classes.DAQ_Viewer_TCP_server, didnt move
+pymodaq.control_modules.viewer_utility_classes.calibs, didnt move
+pymodaq.control_modules.viewer_utility_classes.gauss1D, pymodaq_utils.math_utils.gauss1D
+pymodaq.control_modules.viewer_utility_classes.gauss2D, pymodaq_utils.math_utils.gauss2D
+pymodaq.control_modules.viewer_utility_classes.get_param_from_name, pymodaq_gui.parameter.utils.get_param_from_name
+pymodaq.control_modules.viewer_utility_classes.get_param_path, pymodaq_gui.parameter.utils.get_param_path
+pymodaq.control_modules.viewer_utility_classes.iter_children, pymodaq_gui.parameter.utils.iter_children
+pymodaq.dashboard.DashBoard, didnt move
+pymodaq.dashboard.MasterSlaveError, didnt move
+pymodaq.dashboard.ModulesManager, didnt move
+pymodaq.dashboard.OvershootManager, didnt move
+pymodaq.dashboard.PIDController, didnt move
+pymodaq.dashboard.PIDError, didnt move
+pymodaq.dashboard.ParameterTree, pymodaq_gui.parameter.ParameterTree
+pymodaq.dashboard.PluginManager, didnt move
+pymodaq.dashboard.PresetManager, didnt move
+pymodaq.dashboard.ROISaver, pymodaq_gui.managers.roi_manager.ROISaver
+pymodaq.dashboard.RemoteManager, didnt move
+pymodaq.dashboard.extensions, didnt move
+pymodaq.dashboard.extmod, didnt move
+pymodaq.dashboard.get_instrument_plugins, didnt move
+pymodaq.dashboard.get_pypi_pymodaq, didnt move
+pymodaq.dashboard.get_version, pymodaq_utils.utils.get_version
+pymodaq.dashboard.layout_mod, didnt move
+pymodaq.dashboard.layout_path, didnt move
+pymodaq.dashboard.log_path, didnt move
+pymodaq.dashboard.messagebox, pymodaq_gui.messenger.messagebox
+pymodaq.dashboard.now, didnt move
+pymodaq.dashboard.overshoot_path, didnt move
+pymodaq.dashboard.preset_path, didnt move
+pymodaq.dashboard.remote_path, didnt move
+pymodaq.dashboard.start_coordinator, didnt move
+pymodaq.dashboard.start_qapplication, pymodaq_gui.utils.utils.start_qapplication
+pymodaq.dashboard.subprocess, didnt move
+pymodaq.examples.custom_app, pymodaq_gui.utils.custom_app.custom_app
+pymodaq.examples.custom_viewer, pymodaq_gui.examples.custom_viewer.custom_viewer
+pymodaq.examples.nonlinearscanner, didnt move
+pymodaq.examples.parameter_ex, pymodaq_gui.examples.parameter_ex.parameter_ex
+pymodaq.examples.qt_less_standalone_module, didnt move
+pymodaq.examples.tcp_client, didnt move
+pymodaq.examples.custom_app.CustomAppExample, didnt move
+pymodaq.examples.custom_app.DataToExportSaver, pymodaq_data.h5modules.data_saving.DataToExportSaver
+pymodaq.examples.custom_app.H5Browser, pymodaq_gui.h5modules.browsing.H5Browser
+pymodaq.examples.custom_app.QDate, didnt move
+pymodaq.examples.custom_app.Viewer0D, pymodaq_gui.plotting.data_viewers.viewer0D.Viewer0D
+pymodaq.examples.custom_viewer.SpinBoxDelegate, pymodaq_gui.utils.widgets.table.SpinBoxDelegate
+pymodaq.examples.custom_viewer.TableModelTabular, pymodaq.utils.scanner.scanners.tabular.TableModelTabular
+pymodaq.examples.custom_viewer.TableViewCustom, pymodaq_gui.parameter.pymodaq_ptypes.tableview.TableViewCustom
+pymodaq.examples.custom_viewer.Viewer2D, pymodaq_gui.plotting.data_viewers.viewer2D.Viewer2D
+pymodaq.examples.custom_viewer.ViewerPointList, pymodaq_gui.examples.custom_viewer.ViewerPointList
+pymodaq.examples.custom_viewer.get_widget_from_tree, pymodaq_gui.parameter.utils.get_widget_from_tree
+pymodaq.examples.custom_viewer.gutils, pymodaq.utils.gui_utils.gutils
+pymodaq.examples.nonlinearscanner.NonLinearScanner, didnt move
+pymodaq.examples.nonlinearscanner.get_set_preset_path, didnt move
+pymodaq.examples.parameter_ex.ParameterEx, pymodaq_gui.examples.parameter_ex.ParameterEx
+pymodaq.examples.parameter_ex.pymodaq, didnt move
+pymodaq.examples.qt_less_standalone_module.Listener, didnt move
+pymodaq.examples.qt_less_standalone_module.QtLessModule, didnt move
+pymodaq.examples.qt_less_standalone_module.sleep, didnt move
+pymodaq.examples.tcp_client.TCPClientTemplate, didnt move
+pymodaq.extensions.BayesianModelDefault, didnt move
+pymodaq.extensions.BayesianModelGeneric, didnt move
+pymodaq.extensions.BayesianOptimisation, didnt move
+pymodaq.extensions.DAQScan, didnt move
+pymodaq.extensions.DAQ_Logger, didnt move
+pymodaq.extensions.DAQ_PID, didnt move
+pymodaq.extensions.QtConsole, didnt move
+pymodaq.extensions.bayesian, didnt move
+pymodaq.extensions.console, didnt move
+pymodaq.extensions.daq_logger, didnt move
+pymodaq.extensions.daq_scan, didnt move
+pymodaq.extensions.daq_scan_ui, didnt move
+pymodaq.extensions.get_extensions, didnt move
+pymodaq.extensions.get_models, didnt move
+pymodaq.extensions.h5browser, didnt move
+pymodaq.extensions.pid, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.BayesianAlgorithm, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.BayesianConfig, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.CLASS_NAME, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.DataCalculated, pymodaq_data.data.DataCalculated
+pymodaq.extensions.bayesian.bayesian_optimisation.DataEnlargeableSaver, pymodaq_data.h5modules.data_saving.DataEnlargeableSaver
+pymodaq.extensions.bayesian.bayesian_optimisation.DataToActuators, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.EXTENSION_NAME, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.LoaderPlotter, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.OptimisationRunner, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.StopType, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.StoppingParameters, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.UtilityKind, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.UtilityParameters, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.get_bayesian_models, didnt move
+pymodaq.extensions.bayesian.bayesian_optimisation.tempfile, didnt move
+pymodaq.extensions.bayesian.utils.ABC, didnt move
+pymodaq.extensions.bayesian.utils.BaseConfig, pymodaq_utils.config.BaseConfig
+pymodaq.extensions.bayesian.utils.BayesianOptimization, didnt move
+pymodaq.extensions.bayesian.utils.UtilityFunction, didnt move
+pymodaq.extensions.bayesian.utils.get_entrypoints, pymodaq_utils.utils.get_entrypoints
+pymodaq.extensions.bayesian.utils.namedtuple, didnt move
+pymodaq.extensions.console.BANNER, didnt move
+pymodaq.extensions.console.QtInProcessKernelManager, didnt move
+pymodaq.extensions.console.RichJupyterWidget, didnt move
+pymodaq.extensions.daq_logger.DAQ_Logging, didnt move
+pymodaq.extensions.daq_logger.H5Logger, didnt move
+pymodaq.extensions.daq_logger.LOG_TYPES, didnt move
+pymodaq.extensions.daq_logger.data_mod, pymodaq_data.data.data_mod
+pymodaq.extensions.daq_logger.is_sql, didnt move
+pymodaq.extensions.daq_scan.BatchScanner, didnt move
+pymodaq.extensions.daq_scan.DAQScanAcquisition, didnt move
+pymodaq.extensions.daq_scan.DAQScanUI, didnt move
+pymodaq.extensions.daq_scan.Navigator, pymodaq_gui.plotting.navigator.Navigator
+pymodaq.extensions.daq_scan.SHOW_POPUPS, didnt move
+pymodaq.extensions.daq_scan.ScanDataTemp, didnt move
+pymodaq.extensions.daq_scan.ScanSelector, didnt move
+pymodaq.extensions.daq_scan.Scanner, didnt move
+pymodaq.extensions.daq_scan.SelectorItem, didnt move
+pymodaq.extensions.daq_scan.Viewer1D, pymodaq_gui.plotting.data_viewers.viewer1D.Viewer1D
+pymodaq.extensions.daq_scan.data_saving, pymodaq_data.h5modules.data_saving.data_saving
+pymodaq.extensions.daq_scan.exceptions, didnt move
+pymodaq.extensions.daq_scan.scanner_factory, didnt move
+pymodaq.extensions.h5browser.argparse, didnt move
+pymodaq.extensions.pid.actuator_controller, didnt move
+pymodaq.extensions.pid.path, didnt move
+pymodaq.extensions.pid.pid_controller, didnt move
+pymodaq.extensions.pid.pid_controller.PID, didnt move
+pymodaq.extensions.pid.pid_controller.PIDRunner, didnt move
+pymodaq.extensions.pid.pid_controller.convert_output_limits, didnt move
+pymodaq.extensions.pid.pid_controller.partial, didnt move
+pymodaq.extensions.pid.utils.DAQ_0DViewer_Det_types, didnt move
+pymodaq.extensions.pid.utils.DAQ_1DViewer_Det_types, didnt move
+pymodaq.extensions.pid.utils.DAQ_2DViewer_Det_types, didnt move
+pymodaq.extensions.pid.utils.DAQ_Move_Stage_type, didnt move
+pymodaq.extensions.pid.utils.DAQ_NDViewer_Det_types, didnt move
+pymodaq.extensions.pid.utils.DataToActuatorPID, didnt move
+pymodaq.extensions.pid.utils.PIDModelGeneric, didnt move
+pymodaq.extensions.utils.get_ext_modules, didnt move
+pymodaq.extensions.utils.logger_module, pymodaq_utils.logger.logger_module
+pymodaq.post_treatment.daq_analysis, didnt move
+pymodaq.post_treatment.daq_measurement, didnt move
+pymodaq.post_treatment.load_and_plot, didnt move
+pymodaq.post_treatment.process_to_scalar, pymodaq_data.post_treatment.process_to_scalar.process_to_scalar
+pymodaq.post_treatment.daq_measurement.daq_measurement_GUI, didnt move
+pymodaq.post_treatment.daq_measurement.daq_measurement_main, didnt move
+pymodaq.post_treatment.daq_measurement.daq_measurement_GUI.QtDesigner_ressources_rc, pymodaq_gui.QtDesigner_Ressources.QtDesigner_ressources_rc.QtDesigner_ressources_rc
+pymodaq.post_treatment.daq_measurement.daq_measurement_GUI.Ui_Form, didnt move
+pymodaq.post_treatment.daq_measurement.daq_measurement_main.DAQ_Measurement, didnt move
+pymodaq.post_treatment.daq_measurement.daq_measurement_main.FourierFilterer, pymodaq_gui.plotting.utils.filter.FourierFilterer
+pymodaq.post_treatment.daq_measurement.daq_measurement_main.Measurement_type, didnt move
+pymodaq.post_treatment.daq_measurement.daq_measurement_main.curve_fit, didnt move
+pymodaq.post_treatment.load_and_plot.DataDim, pymodaq_data.data.DataDim
+pymodaq.post_treatment.load_and_plot.DataLoader, pymodaq_data.h5modules.data_saving.DataLoader
+pymodaq.post_treatment.load_and_plot.ViewerND, pymodaq_gui.plotting.data_viewers.viewerND.ViewerND
+pymodaq.post_treatment.process_to_scalar.ArgMaxProcessor, pymodaq_data.post_treatment.process_to_scalar.ArgMaxProcessor
+pymodaq.post_treatment.process_to_scalar.ArgMeanProcessor, pymodaq_data.post_treatment.process_to_scalar.ArgMeanProcessor
+pymodaq.post_treatment.process_to_scalar.ArgMinProcessor, pymodaq_data.post_treatment.process_to_scalar.ArgMinProcessor
+pymodaq.post_treatment.process_to_scalar.ArgStdProcessor, pymodaq_data.post_treatment.process_to_scalar.ArgStdProcessor
+pymodaq.post_treatment.process_to_scalar.DataBase, pymodaq_data.data.DataBase
+pymodaq.post_treatment.process_to_scalar.DataProcessorBase, pymodaq_data.post_treatment.process_to_scalar.DataProcessorBase
+pymodaq.post_treatment.process_to_scalar.DataProcessorFactory, pymodaq_data.post_treatment.process_to_scalar.DataProcessorFactory
+pymodaq.post_treatment.process_to_scalar.MaxProcessor, pymodaq_data.post_treatment.process_to_scalar.MaxProcessor
+pymodaq.post_treatment.process_to_scalar.MeanProcessor, pymodaq_data.post_treatment.process_to_scalar.MeanProcessor
+pymodaq.post_treatment.process_to_scalar.MinProcessor, pymodaq_data.post_treatment.process_to_scalar.MinProcessor
+pymodaq.post_treatment.process_to_scalar.ObjectFactory, pymodaq_utils.factory.ObjectFactory
+pymodaq.post_treatment.process_to_scalar.StdProcessor, pymodaq_data.post_treatment.process_to_scalar.StdProcessor
+pymodaq.post_treatment.process_to_scalar.SumProcessor, pymodaq_data.post_treatment.process_to_scalar.SumProcessor
+pymodaq.post_treatment.process_to_scalar.config_processors, didnt move
+pymodaq.post_treatment.process_to_scalar.mutils, pymodaq_utils.math_utils.mutils
+pymodaq.resources.QtDesigner_Ressources, didnt move
+pymodaq.resources.setup_plugin, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qCleanupResources, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qInitResources, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qt_resource_data, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qt_resource_name, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qt_resource_struct, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qt_resource_struct_v1, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qt_resource_struct_v2, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.qt_version, didnt move
+pymodaq.resources.QtDesigner_Ressources.QtDesigner_ressources_rc.rcc_version, didnt move
+pymodaq.resources.setup_plugin.find_packages, didnt move
+pymodaq.resources.setup_plugin.realsetup, didnt move
+pymodaq.resources.setup_plugin.setup, didnt move
+pymodaq.utils.abstract, didnt move
+pymodaq.utils.array_manipulation, didnt move
+pymodaq.utils.calibration_camera, didnt move
+pymodaq.utils.chrono_timer, didnt move
+pymodaq.utils.daq_utils, didnt move
+pymodaq.utils.data, didnt move
+pymodaq.utils.db, didnt move
+pymodaq.utils.enums, didnt move
+pymodaq.utils.factory, didnt move
+pymodaq.utils.gui_utils, didnt move
+pymodaq.utils.h5modules, didnt move
+pymodaq.utils.leco, didnt move
+pymodaq.utils.managers, didnt move
+pymodaq.utils.math_utils, didnt move
+pymodaq.utils.messenger, didnt move
+pymodaq.utils.parameter, didnt move
+pymodaq.utils.plotting, didnt move
+pymodaq.utils.qvariant, didnt move
+pymodaq.utils.scanner, didnt move
+pymodaq.utils.slicing, didnt move
+pymodaq.utils.svg, didnt move
+pymodaq.utils.tcp_ip, didnt move
+pymodaq.utils.units, didnt move
+pymodaq.utils.abstract.DummyAttribute, pymodaq_utils.abstract.DummyAttribute
+pymodaq.utils.abstract.R, pymodaq_utils.abstract.R
+pymodaq.utils.abstract.abstract_attribute, pymodaq_utils.abstract.abstract_attribute
+pymodaq.utils.abstract.logger.AbstractLogger, didnt move
+pymodaq.utils.array_manipulation.arglimit, pymodaq_utils.array_manipulation.arglimit
+pymodaq.utils.array_manipulation.crop_array_to_axis, pymodaq_utils.array_manipulation.crop_array_to_axis
+pymodaq.utils.array_manipulation.crop_vector_to_axis, pymodaq_utils.array_manipulation.crop_vector_to_axis
+pymodaq.utils.array_manipulation.find, pymodaq_utils.array_manipulation.find
+pymodaq.utils.array_manipulation.find_index, pymodaq_utils.math_utils.find_index
+pymodaq.utils.array_manipulation.find_rising_edges, pymodaq_utils.array_manipulation.find_rising_edges
+pymodaq.utils.array_manipulation.interp1D, pymodaq_utils.array_manipulation.interp1D
+pymodaq.utils.array_manipulation.limit, pymodaq_utils.array_manipulation.limit
+pymodaq.utils.array_manipulation.linspace_this_image, pymodaq_utils.array_manipulation.linspace_this_image
+pymodaq.utils.array_manipulation.linspace_this_vect, pymodaq_utils.array_manipulation.linspace_this_vect
+pymodaq.utils.array_manipulation.marginals, pymodaq_utils.array_manipulation.marginals
+pymodaq.utils.array_manipulation.max_ind, pymodaq_utils.array_manipulation.max_ind
+pymodaq.utils.array_manipulation.min_ind, pymodaq_utils.array_manipulation.min_ind
+pymodaq.utils.array_manipulation.random_step, pymodaq_utils.array_manipulation.random_step
+pymodaq.utils.array_manipulation.rescale, pymodaq_utils.array_manipulation.rescale
+pymodaq.utils.calibration_camera.CalibrationCamera, didnt move
+pymodaq.utils.calibration_camera.calib_path, didnt move
+pymodaq.utils.chrono_timer.ChronoTimer, didnt move
+pymodaq.utils.chrono_timer.PushButtonShortcut, didnt move
+pymodaq.utils.chrono_timer.timedelta, didnt move
+pymodaq.utils.config.ConfigError, pymodaq_utils.config.ConfigError
+pymodaq.utils.config.ConfigSaverLoader, pymodaq_gui.config.ConfigSaverLoader
+pymodaq.utils.config.KeyType, pymodaq_utils.config.KeyType
+pymodaq.utils.config.USER, didnt move
+pymodaq.utils.config.check_config, pymodaq_utils.config.check_config
+pymodaq.utils.config.copy_template_config, pymodaq_utils.config.copy_template_config
+pymodaq.utils.config.create_toml_from_dict, pymodaq_utils.config.create_toml_from_dict
+pymodaq.utils.config.deep_update, pymodaq_utils.config.deep_update
+pymodaq.utils.config.get_config_file, pymodaq_utils.config.get_config_file
+pymodaq.utils.config.get_set_batch_path, didnt move
+pymodaq.utils.config.get_set_config_dir, pymodaq_utils.config.get_set_config_dir
+pymodaq.utils.config.get_set_layout_path, didnt move
+pymodaq.utils.config.get_set_log_path, pymodaq_utils.config.get_set_log_path
+pymodaq.utils.config.get_set_overshoot_path, didnt move
+pymodaq.utils.config.get_set_path, pymodaq_utils.config.get_set_path
+pymodaq.utils.config.get_set_pid_path, didnt move
+pymodaq.utils.config.get_set_remote_path, didnt move
+pymodaq.utils.config.get_set_roi_path, pymodaq_gui.config.get_set_roi_path
+pymodaq.utils.config.getitem_recursive, pymodaq_utils.config.getitem_recursive
+pymodaq.utils.config.load_system_config_and_update_from_user, pymodaq_utils.config.load_system_config_and_update_from_user
+pymodaq.utils.config.recursive_iterable_flattening, pymodaq_utils.config.recursive_iterable_flattening
+pymodaq.utils.config.replace_file_extension, pymodaq_utils.config.replace_file_extension
+pymodaq.utils.daq_utils.JsonConverter, pymodaq_utils.utils.JsonConverter
+pymodaq.utils.daq_utils.PlotColors, pymodaq_utils.utils.PlotColors
+pymodaq.utils.daq_utils.caller_name, pymodaq_utils.utils.caller_name
+pymodaq.utils.daq_utils.capitalize, pymodaq_utils.utils.capitalize
+pymodaq.utils.daq_utils.check_vals_in_iterable, pymodaq_utils.utils.check_vals_in_iterable
+pymodaq.utils.daq_utils.copy_preset, didnt move
+pymodaq.utils.daq_utils.count_lines, pymodaq_utils.utils.count_lines
+pymodaq.utils.daq_utils.decode_data, pymodaq_gui.qt_utils.decode_data
+pymodaq.utils.daq_utils.elt_as_first_element, pymodaq_utils.utils.elt_as_first_element
+pymodaq.utils.daq_utils.elt_as_first_element_dicts, pymodaq_utils.utils.elt_as_first_element_dicts
+pymodaq.utils.daq_utils.ensure_ndarray, pymodaq_utils.utils.ensure_ndarray
+pymodaq.utils.daq_utils.find_dict_if_matched_key_val, pymodaq_utils.utils.find_dict_if_matched_key_val
+pymodaq.utils.daq_utils.find_object_if_matched_attr_name_val, pymodaq_utils.utils.find_object_if_matched_attr_name_val
+pymodaq.utils.daq_utils.find_objects_in_list_from_attr_name_val, pymodaq_utils.utils.find_objects_in_list_from_attr_name_val
+pymodaq.utils.daq_utils.get_new_file_name, pymodaq_utils.utils.get_new_file_name
+pymodaq.utils.daq_utils.is_64bits, pymodaq_utils.utils.is_64bits
+pymodaq.utils.daq_utils.plot_colors, pymodaq_utils.utils.plot_colors
+pymodaq.utils.daq_utils.recursive_find_expr_in_files, pymodaq_utils.utils.recursive_find_expr_in_files
+pymodaq.utils.daq_utils.recursive_find_files, pymodaq_utils.utils.recursive_find_files
+pymodaq.utils.daq_utils.recursive_find_files_extension, pymodaq_utils.utils.recursive_find_files_extension
+pymodaq.utils.daq_utils.remove_spaces, pymodaq_utils.utils.remove_spaces
+pymodaq.utils.daq_utils.rint, pymodaq_utils.utils.rint
+pymodaq.utils.daq_utils.setLocale, pymodaq_gui.qt_utils.setLocale
+pymodaq.utils.daq_utils.set_qt_backend, pymodaq_gui.qt_utils.set_qt_backend
+pymodaq.utils.daq_utils.timer, pymodaq_utils.utils.timer
+pymodaq.utils.daq_utils.uncapitalize, pymodaq_utils.utils.uncapitalize
+pymodaq.utils.daq_utils.zeros_aligned, pymodaq_utils.utils.zeros_aligned
+pymodaq.utils.data.AxesManagerBase, pymodaq_data.data.AxesManagerBase
+pymodaq.utils.data.AxesManagerSpread, pymodaq_data.data.AxesManagerSpread
+pymodaq.utils.data.AxesManagerUniform, pymodaq_data.data.AxesManagerUniform
+pymodaq.utils.data.DataDimError, pymodaq_data.data.DataDimError
+pymodaq.utils.data.DataDimWarning, pymodaq_data.data.DataDimWarning
+pymodaq.utils.data.DataFromRoi, pymodaq_data.data.DataFromRoi
+pymodaq.utils.data.DataIndexWarning, pymodaq_data.data.DataIndexWarning
+pymodaq.utils.data.DataLengthError, pymodaq_data.data.DataLengthError
+pymodaq.utils.data.DataLowLevel, pymodaq_data.data.DataLowLevel
+pymodaq.utils.data.DataScan, didnt move
+pymodaq.utils.data.DataShapeError, pymodaq_data.data.DataShapeError
+pymodaq.utils.data.DataSizeWarning, pymodaq_data.data.DataSizeWarning
+pymodaq.utils.data.DataSource, pymodaq_data.data.DataSource
+pymodaq.utils.data.DataTypeWarning, pymodaq_data.data.DataTypeWarning
+pymodaq.utils.data.DwaType, pymodaq_data.data.DwaType
+pymodaq.utils.data.NavAxis, pymodaq_data.data.NavAxis
+pymodaq.utils.data.PlotterFactory, pymodaq_data.plotting.plotter.plotter.PlotterFactory
+pymodaq.utils.data.SpecialSlicersData, pymodaq_data.slicing.SpecialSlicersData
+pymodaq.utils.data.WARNINGS, didnt move
+pymodaq.utils.data.plotter_factory, pymodaq_data.plotting.plotter.plotter.plotter_factory
+pymodaq.utils.data.squeeze, pymodaq_data.data.squeeze
+pymodaq.utils.data.warning, pymodaq_data.data.warning
+pymodaq.utils.db.db_logger, didnt move
+pymodaq.utils.enums.my_moment, pymodaq_utils.math_utils.my_moment
+pymodaq.utils.exceptions.DAQ_ScanException, didnt move
+pymodaq.utils.exceptions.ExpectedError, didnt move
+pymodaq.utils.exceptions.Expected_1, didnt move
+pymodaq.utils.exceptions.Expected_2, didnt move
+pymodaq.utils.exceptions.Expected_3, didnt move
+pymodaq.utils.factory.BuilderBase, pymodaq_utils.factory.BuilderBase
+pymodaq.utils.gui_utils.BooleanDelegate, pymodaq_gui.utils.widgets.table.BooleanDelegate
+pymodaq.utils.gui_utils.EditPush, pymodaq_gui.utils.widgets.push.EditPush
+pymodaq.utils.gui_utils.EditPushInfo, pymodaq_gui.utils.widgets.push.EditPushInfo
+pymodaq.utils.gui_utils.EditPushRel, pymodaq_gui.utils.widgets.push.EditPushRel
+pymodaq.utils.gui_utils.ListPicker, pymodaq_gui.utils.list_picker.ListPicker
+pymodaq.utils.gui_utils.TableModel, pymodaq_gui.utils.widgets.table.TableModel
+pymodaq.utils.gui_utils.TableView, pymodaq_gui.utils.widgets.table.TableView
+pymodaq.utils.gui_utils.dock, pymodaq_gui.utils.dock.dock
+pymodaq.utils.gui_utils.file_io, pymodaq_gui.utils.file_io.file_io
+pymodaq.utils.gui_utils.layout, pymodaq_gui.utils.layout.layout
+pymodaq.utils.gui_utils.list_picker, pymodaq_gui.utils.list_picker.list_picker
+pymodaq.utils.gui_utils.loader_utils, didnt move
+pymodaq.utils.gui_utils.widgets, pymodaq_gui.plotting.widgets.widgets
+pymodaq.utils.gui_utils.custom_app.ActionManager, pymodaq_gui.managers.action_manager.ActionManager
+pymodaq.utils.gui_utils.file_io.select_file_filter, pymodaq_gui.utils.file_io.select_file_filter
+pymodaq.utils.gui_utils.layout.load_layout_state, pymodaq_gui.utils.layout.load_layout_state
+pymodaq.utils.gui_utils.layout.save_layout_state, pymodaq_gui.utils.layout.save_layout_state
+pymodaq.utils.gui_utils.loader_utils.load_dashboard_with_preset, didnt move
+pymodaq.utils.gui_utils.utils.clickable, pymodaq_gui.utils.utils.clickable
+pymodaq.utils.gui_utils.utils.dashboard_submodules_params, didnt move
+pymodaq.utils.gui_utils.utils.exec, pymodaq_gui.utils.utils.exec
+pymodaq.utils.gui_utils.utils.h5tree_to_QTree, pymodaq_gui.utils.utils.h5tree_to_QTree
+pymodaq.utils.gui_utils.utils.mkQApp, pymodaq_gui.utils.utils.mkQApp
+pymodaq.utils.gui_utils.utils.pngbinary2Qlabel, pymodaq_gui.utils.utils.pngbinary2Qlabel
+pymodaq.utils.gui_utils.utils.set_enable_recursive, pymodaq_gui.utils.utils.set_enable_recursive
+pymodaq.utils.gui_utils.utils.widget_to_png_to_bytes, pymodaq_gui.utils.utils.widget_to_png_to_bytes
+pymodaq.utils.gui_utils.widgets.label, pymodaq_gui.utils.widgets.label.label
+pymodaq.utils.gui_utils.widgets.lcd, pymodaq_gui.utils.widgets.lcd.lcd
+pymodaq.utils.gui_utils.widgets.push, pymodaq_gui.utils.widgets.push.push
+pymodaq.utils.gui_utils.widgets.qled, pymodaq_gui.utils.widgets.qled.qled
+pymodaq.utils.gui_utils.widgets.spinbox, pymodaq_gui.utils.widgets.spinbox.spinbox
+pymodaq.utils.gui_utils.widgets.table, pymodaq_gui.utils.widgets.table.table
+pymodaq.utils.gui_utils.widgets.tree_layout, pymodaq_gui.utils.widgets.tree_layout.tree_layout
+pymodaq.utils.gui_utils.widgets.tree_toml, pymodaq_gui.utils.widgets.tree_toml.tree_toml
+pymodaq.utils.gui_utils.widgets.push.ActionMenu, pymodaq_gui.utils.widgets.push.ActionMenu
+pymodaq.utils.gui_utils.widgets.push.EDIT_PUSH_TYPES, didnt move
+pymodaq.utils.gui_utils.widgets.table.MyStyle, pymodaq_gui.utils.widgets.table.MyStyle
+pymodaq.utils.gui_utils.widgets.tree_layout.CustomTree, pymodaq_gui.utils.widgets.tree_layout.CustomTree
+pymodaq.utils.gui_utils.widgets.tree_layout.TreeLayout, pymodaq_gui.utils.widgets.tree_layout.TreeLayout
+pymodaq.utils.gui_utils.widgets.tree_toml.TreeFromToml, pymodaq_gui.utils.widgets.tree_toml.TreeFromToml
+pymodaq.utils.h5modules.backends, pymodaq_data.h5modules.backends.backends
+pymodaq.utils.h5modules.browsing, pymodaq_gui.h5modules.browsing.browsing
+pymodaq.utils.h5modules.exporter, pymodaq_data.h5modules.exporter.exporter
+pymodaq.utils.h5modules.exporters, pymodaq_data.h5modules.exporters.exporters
+pymodaq.utils.h5modules.h5logging, didnt move
+pymodaq.utils.h5modules.register_exporter, pymodaq_data.h5modules.utils.register_exporter
+pymodaq.utils.h5modules.register_exporters, pymodaq_data.h5modules.utils.register_exporters
+pymodaq.utils.h5modules.backends.Attributes, pymodaq_data.h5modules.backends.Attributes
+pymodaq.utils.h5modules.backends.CARRAY, pymodaq_data.h5modules.backends.CARRAY
+pymodaq.utils.h5modules.backends.EARRAY, pymodaq_data.h5modules.backends.EARRAY
+pymodaq.utils.h5modules.backends.GROUP, pymodaq_data.h5modules.backends.GROUP
+pymodaq.utils.h5modules.backends.GroupType, pymodaq_data.h5modules.backends.GroupType
+pymodaq.utils.h5modules.backends.H5Backend, pymodaq_data.h5modules.backends.H5Backend
+pymodaq.utils.h5modules.backends.InvalidDataDimension, pymodaq_data.h5modules.backends.InvalidDataDimension
+pymodaq.utils.h5modules.backends.InvalidDataType, pymodaq_data.h5modules.backends.InvalidDataType
+pymodaq.utils.h5modules.backends.InvalidExport, pymodaq_data.h5modules.backends.InvalidExport
+pymodaq.utils.h5modules.backends.InvalidGroupDataType, pymodaq_data.h5modules.backends.InvalidGroupDataType
+pymodaq.utils.h5modules.backends.InvalidGroupType, pymodaq_data.h5modules.backends.InvalidGroupType
+pymodaq.utils.h5modules.backends.InvalidSave, pymodaq_data.h5modules.backends.InvalidSave
+pymodaq.utils.h5modules.backends.InvalidScanType, pymodaq_data.h5modules.backends.InvalidScanType
+pymodaq.utils.h5modules.backends.NodeError, pymodaq_data.h5modules.backends.NodeError
+pymodaq.utils.h5modules.backends.SaveType, pymodaq_data.h5modules.backends.SaveType
+pymodaq.utils.h5modules.backends.StringARRAY, pymodaq_data.h5modules.backends.StringARRAY
+pymodaq.utils.h5modules.backends.VLARRAY, pymodaq_data.h5modules.backends.VLARRAY
+pymodaq.utils.h5modules.backends.backends_available, didnt move
+pymodaq.utils.h5modules.backends.check_mandatory_attrs, pymodaq_data.h5modules.backends.check_mandatory_attrs
+pymodaq.utils.h5modules.backends.get_attr, pymodaq_data.h5modules.backends.get_attr
+pymodaq.utils.h5modules.backends.is_h5py, didnt move
+pymodaq.utils.h5modules.backends.is_h5pyd, didnt move
+pymodaq.utils.h5modules.backends.is_tables, didnt move
+pymodaq.utils.h5modules.backends.set_attr, pymodaq_data.h5modules.backends.set_attr
+pymodaq.utils.h5modules.browsing.ExporterFactory, pymodaq_data.h5modules.exporter.ExporterFactory
+pymodaq.utils.h5modules.browsing.H5BrowserUtil, pymodaq_data.h5modules.browsing.H5BrowserUtil
+pymodaq.utils.h5modules.browsing.View, pymodaq_gui.h5modules.browsing.View
+pymodaq.utils.h5modules.data_saving.AxisError, pymodaq_data.h5modules.data_saving.AxisError
+pymodaq.utils.h5modules.data_saving.AxisSaverLoader, pymodaq_data.h5modules.data_saving.AxisSaverLoader
+pymodaq.utils.h5modules.data_saving.BkgSaver, pymodaq_data.h5modules.data_saving.BkgSaver
+pymodaq.utils.h5modules.data_saving.DataExtendedSaver, pymodaq_data.h5modules.data_saving.DataExtendedSaver
+pymodaq.utils.h5modules.data_saving.DataManagement, pymodaq_data.h5modules.data_saving.DataManagement
+pymodaq.utils.h5modules.data_saving.DataSaverLoader, pymodaq_data.h5modules.data_saving.DataSaverLoader
+pymodaq.utils.h5modules.data_saving.DataToExportEnlargeableSaver, pymodaq_data.h5modules.data_saving.DataToExportEnlargeableSaver
+pymodaq.utils.h5modules.data_saving.DataToExportExtendedSaver, pymodaq_data.h5modules.data_saving.DataToExportExtendedSaver
+pymodaq.utils.h5modules.data_saving.DataToExportTimedSaver, pymodaq_data.h5modules.data_saving.DataToExportTimedSaver
+pymodaq.utils.h5modules.data_saving.DataType, pymodaq_data.h5modules.saving.DataType
+pymodaq.utils.h5modules.data_saving.ErrorSaverLoader, pymodaq_data.h5modules.data_saving.ErrorSaverLoader
+pymodaq.utils.h5modules.data_saving.SPECIAL_GROUP_NAMES, didnt move
+pymodaq.utils.h5modules.data_saving.ScanType, didnt move
+pymodaq.utils.h5modules.exporter.H5Exporter, pymodaq_data.h5modules.exporter.H5Exporter
+pymodaq.utils.h5modules.exporters.base, pymodaq_gui.plotting.data_viewers.base.base
+pymodaq.utils.h5modules.exporters.flimj, pymodaq_data.h5modules.exporters.flimj.flimj
+pymodaq.utils.h5modules.exporters.hyperspy, pymodaq_data.h5modules.exporters.hyperspy.hyperspy
+pymodaq.utils.h5modules.exporters.base.H5h5Exporter, pymodaq_data.h5modules.exporters.base.H5h5Exporter
+pymodaq.utils.h5modules.exporters.base.H5npyExporter, pymodaq_data.h5modules.exporters.base.H5npyExporter
+pymodaq.utils.h5modules.exporters.base.H5txtExporter, pymodaq_data.h5modules.exporters.base.H5txtExporter
+pymodaq.utils.h5modules.exporters.flimj.H5asciiExporter, pymodaq_data.h5modules.exporters.flimj.H5asciiExporter
+pymodaq.utils.h5modules.h5logging.H5LogHandler, didnt move
+pymodaq.utils.h5modules.module_saving.DetectorEnlargeableSaver, didnt move
+pymodaq.utils.h5modules.module_saving.DetectorExtendedSaver, didnt move
+pymodaq.utils.h5modules.module_saving.H5SaverLowLevel, pymodaq_data.h5modules.saving.H5SaverLowLevel
+pymodaq.utils.h5modules.module_saving.LoggerSaver, didnt move
+pymodaq.utils.h5modules.module_saving.ModuleSaver, didnt move
+pymodaq.utils.h5modules.saving.FileType, pymodaq_data.h5modules.saving.FileType
+pymodaq.utils.h5modules.saving.H5SaverBase, pymodaq_gui.h5modules.saving.H5SaverBase
+pymodaq.utils.h5modules.utils.extract_axis, pymodaq_data.h5modules.utils.extract_axis
+pymodaq.utils.h5modules.utils.find_scan_node, pymodaq_data.h5modules.utils.find_scan_node
+pymodaq.utils.h5modules.utils.get_h5_attributes, pymodaq_data.h5modules.utils.get_h5_attributes
+pymodaq.utils.h5modules.utils.get_h5_data_from_node, pymodaq_data.h5modules.utils.get_h5_data_from_node
+pymodaq.utils.h5modules.utils.verify_axis_data_uniformity, pymodaq_data.h5modules.utils.verify_axis_data_uniformity
+pymodaq.utils.leco.daq_move_LECODirector, didnt move
+pymodaq.utils.leco.daq_xDviewer_LECODirector, didnt move
+pymodaq.utils.leco.director_utils, didnt move
+pymodaq.utils.leco.leco_director, didnt move
+pymodaq.utils.leco.pymodaq_listener, didnt move
+pymodaq.utils.leco.daq_move_LECODirector.ActuatorDirector, didnt move
+pymodaq.utils.leco.daq_move_LECODirector.DAQ_Move_LECODirector, didnt move
+pymodaq.utils.leco.daq_move_LECODirector.LECODirector, didnt move
+pymodaq.utils.leco.daq_move_LECODirector.leco_parameters, didnt move
+pymodaq.utils.leco.daq_xDviewer_LECODirector.DAQ_xDViewer_LECODirector, didnt move
+pymodaq.utils.leco.daq_xDviewer_LECODirector.DetectorDirector, didnt move
+pymodaq.utils.leco.director_utils.Director, didnt move
+pymodaq.utils.leco.director_utils.GenericDirector, didnt move
+pymodaq.utils.leco.director_utils.serialize_object, didnt move
+pymodaq.utils.leco.leco_director.PymodaqListener, didnt move
+pymodaq.utils.leco.leco_director.Sequence, didnt move
+pymodaq.utils.leco.leco_director.random, didnt move
+pymodaq.utils.leco.pymodaq_listener.ActorHandler, didnt move
+pymodaq.utils.leco.pymodaq_listener.COORDINATOR_PORT, didnt move
+pymodaq.utils.leco.pymodaq_listener.Event, didnt move
+pymodaq.utils.leco.pymodaq_listener.LECOViewerCommands, didnt move
+pymodaq.utils.leco.pymodaq_listener.ListenerSignals, didnt move
+pymodaq.utils.leco.pymodaq_listener.MoveActorHandler, didnt move
+pymodaq.utils.leco.pymodaq_listener.PipeHandler, didnt move
+pymodaq.utils.leco.pymodaq_listener.PymodaqPipeHandler, didnt move
+pymodaq.utils.leco.pymodaq_listener.SERIALIZABLE, didnt move
+pymodaq.utils.leco.pymodaq_listener.StrEnum, didnt move
+pymodaq.utils.leco.pymodaq_listener.ViewerActorHandler, didnt move
+pymodaq.utils.leco.pymodaq_listener.binary_serialization_to_kwargs, didnt move
+pymodaq.utils.leco.utils.JSON_TYPES, didnt move
+pymodaq.utils.leco.utils.binary_serialization, didnt move
+pymodaq.utils.leco.utils.get_args, didnt move
+pymodaq.utils.leco.utils.run_coordinator, didnt move
+pymodaq.utils.managers.action_manager, pymodaq_gui.managers.action_manager.action_manager
+pymodaq.utils.managers.batchscan_manager, didnt move
+pymodaq.utils.managers.modules_manager, didnt move
+pymodaq.utils.managers.overshoot_manager, didnt move
+pymodaq.utils.managers.parameter_manager, pymodaq_gui.managers.parameter_manager.parameter_manager
+pymodaq.utils.managers.preset_manager, didnt move
+pymodaq.utils.managers.preset_manager_utils, didnt move
+pymodaq.utils.managers.remote_manager, didnt move
+pymodaq.utils.managers.roi_manager, pymodaq_gui.managers.roi_manager.roi_manager
+pymodaq.utils.managers.action_manager.QAction, pymodaq_gui.managers.action_manager.QAction
+pymodaq.utils.managers.action_manager.addaction, pymodaq_gui.managers.action_manager.addaction
+pymodaq.utils.managers.action_manager.addwidget, pymodaq_gui.managers.action_manager.addwidget
+pymodaq.utils.managers.action_manager.create_icon, pymodaq_gui.managers.action_manager.create_icon
+pymodaq.utils.managers.batchscan_manager.BatchManager, didnt move
+pymodaq.utils.managers.batchscan_manager.ScannerBase, didnt move
+pymodaq.utils.managers.batchscan_manager.batch_path, didnt move
+pymodaq.utils.managers.batchscan_manager.main_batch_manager, didnt move
+pymodaq.utils.managers.batchscan_manager.main_batch_scanner, didnt move
+pymodaq.utils.managers.overshoot_manager.PresetScalableGroupDet, didnt move
+pymodaq.utils.managers.overshoot_manager.PresetScalableGroupMove, didnt move
+pymodaq.utils.managers.parameter_manager.ParameterTreeWidget, pymodaq_gui.managers.parameter_manager.ParameterTreeWidget
+pymodaq.utils.managers.preset_manager.dialogbox, didnt move
+pymodaq.utils.managers.preset_manager.pid_models, didnt move
+pymodaq.utils.managers.preset_manager.pid_path, didnt move
+pymodaq.utils.managers.preset_manager_utils.iterative_show_pb, didnt move
+pymodaq.utils.managers.remote_manager.JoystickButtonsSelection, didnt move
+pymodaq.utils.managers.remote_manager.ScalableGroupModules, didnt move
+pymodaq.utils.managers.remote_manager.ScalableGroupRemote, didnt move
+pymodaq.utils.managers.remote_manager.ShortcutSelection, didnt move
+pymodaq.utils.managers.remote_manager.actuator_actions, didnt move
+pymodaq.utils.managers.remote_manager.detector_actions, didnt move
+pymodaq.utils.managers.remote_manager.is_pygame, didnt move
+pymodaq.utils.managers.remote_manager.remote_types, didnt move
+pymodaq.utils.managers.roi_manager.CircularROI, pymodaq_gui.managers.roi_manager.CircularROI
+pymodaq.utils.managers.roi_manager.EllipseROI, pymodaq_gui.managers.roi_manager.EllipseROI
+pymodaq.utils.managers.roi_manager.LinearROI, pymodaq_gui.managers.roi_manager.LinearROI
+pymodaq.utils.managers.roi_manager.ROI, pymodaq_gui.managers.roi_manager.ROI
+pymodaq.utils.managers.roi_manager.ROI2D_TYPES, didnt move
+pymodaq.utils.managers.roi_manager.ROIBrushable, pymodaq_gui.managers.roi_manager.ROIBrushable
+pymodaq.utils.managers.roi_manager.ROIManager, pymodaq_gui.managers.roi_manager.ROIManager
+pymodaq.utils.managers.roi_manager.ROIPositionMapper, pymodaq_gui.managers.roi_manager.ROIPositionMapper
+pymodaq.utils.managers.roi_manager.ROIScalableGroup, pymodaq_gui.managers.roi_manager.ROIScalableGroup
+pymodaq.utils.managers.roi_manager.ROI_NAME_PREFIX, didnt move
+pymodaq.utils.managers.roi_manager.RectROI, pymodaq_gui.managers.roi_manager.RectROI
+pymodaq.utils.managers.roi_manager.SimpleRectROI, pymodaq_gui.managers.roi_manager.SimpleRectROI
+pymodaq.utils.managers.roi_manager.data_processors, pymodaq_data.post_treatment.process_to_scalar.data_processors
+pymodaq.utils.managers.roi_manager.pgRectROI, didnt move
+pymodaq.utils.managers.roi_manager.pymodaq_ptypes, pymodaq_gui.parameter.pymodaq_ptypes.pymodaq_ptypes
+pymodaq.utils.managers.roi_manager.rotate2D, pymodaq_utils.math_utils.rotate2D
+pymodaq.utils.math_utils.LSqEllipse, pymodaq_utils.math_utils.LSqEllipse
+pymodaq.utils.math_utils.find_common_index, pymodaq_utils.math_utils.find_common_index
+pymodaq.utils.math_utils.flatten, pymodaq_utils.math_utils.flatten
+pymodaq.utils.math_utils.ft, pymodaq_utils.math_utils.ft
+pymodaq.utils.math_utils.ft2, pymodaq_utils.math_utils.ft2
+pymodaq.utils.math_utils.ftAxis, pymodaq_utils.math_utils.ftAxis
+pymodaq.utils.math_utils.ftAxis_time, pymodaq_utils.math_utils.ftAxis_time
+pymodaq.utils.math_utils.greater2n, pymodaq_utils.math_utils.greater2n
+pymodaq.utils.math_utils.ift, pymodaq_utils.math_utils.ift
+pymodaq.utils.math_utils.ift2, pymodaq_utils.math_utils.ift2
+pymodaq.utils.math_utils.linspace_step, pymodaq_utils.math_utils.linspace_step
+pymodaq.utils.math_utils.linspace_step_N, pymodaq_utils.math_utils.linspace_step_N
+pymodaq.utils.math_utils.make_test_ellipse, pymodaq_utils.math_utils.make_test_ellipse
+pymodaq.utils.math_utils.normalize, pymodaq_utils.math_utils.normalize
+pymodaq.utils.math_utils.normalize_to, pymodaq_utils.math_utils.normalize_to
+pymodaq.utils.math_utils.odd_even, pymodaq_utils.math_utils.odd_even
+pymodaq.utils.messenger.MESSAGE_SEVERITIES, didnt move
+pymodaq.utils.messenger.dialog, pymodaq_gui.messenger.dialog
+pymodaq.utils.messenger.show_message, pymodaq_gui.messenger.show_message
+pymodaq.utils.messenger.user_warning, pymodaq_utils.warnings.user_warning
+pymodaq.utils.parameter.ioxml.PARAM_NAMES, didnt move
+pymodaq.utils.parameter.ioxml.PARAM_TYPES, didnt move
+pymodaq.utils.parameter.ioxml.XML_file_to_parameter, pymodaq_gui.parameter.ioxml.XML_file_to_parameter
+pymodaq.utils.parameter.ioxml.XML_string_to_parameter, pymodaq_gui.parameter.ioxml.XML_string_to_parameter
+pymodaq.utils.parameter.ioxml.XML_string_to_pobject, pymodaq_gui.parameter.ioxml.XML_string_to_pobject
+pymodaq.utils.parameter.ioxml.add_text_to_elt, pymodaq_gui.parameter.ioxml.add_text_to_elt
+pymodaq.utils.parameter.ioxml.dict_from_param, pymodaq_gui.parameter.ioxml.dict_from_param
+pymodaq.utils.parameter.ioxml.elt_to_dict, pymodaq_gui.parameter.ioxml.elt_to_dict
+pymodaq.utils.parameter.ioxml.parameter_to_xml_file, pymodaq_gui.parameter.ioxml.parameter_to_xml_file
+pymodaq.utils.parameter.ioxml.parameter_to_xml_string, pymodaq_gui.parameter.ioxml.parameter_to_xml_string
+pymodaq.utils.parameter.ioxml.set_txt_from_elt, pymodaq_gui.parameter.ioxml.set_txt_from_elt
+pymodaq.utils.parameter.ioxml.walk_parameters_to_xml, pymodaq_gui.parameter.ioxml.walk_parameters_to_xml
+pymodaq.utils.parameter.ioxml.walk_xml_to_parameter, pymodaq_gui.parameter.ioxml.walk_xml_to_parameter
+pymodaq.utils.parameter.pymodaq_ptypes.BoolPushParameter, pymodaq_gui.parameter.pymodaq_ptypes.bool.BoolPushParameter
+pymodaq.utils.parameter.pymodaq_ptypes.DateParameter, pymodaq_gui.parameter.pymodaq_ptypes.date.DateParameter
+pymodaq.utils.parameter.pymodaq_ptypes.DateTimeParameter, pymodaq_gui.parameter.pymodaq_ptypes.date.DateTimeParameter
+pymodaq.utils.parameter.pymodaq_ptypes.FileDirParameter, pymodaq_gui.parameter.pymodaq_ptypes.filedir.FileDirParameter
+pymodaq.utils.parameter.pymodaq_ptypes.ItemSelectParameter, pymodaq_gui.parameter.pymodaq_ptypes.itemselect.ItemSelectParameter
+pymodaq.utils.parameter.pymodaq_ptypes.LedParameter, pymodaq_gui.parameter.pymodaq_ptypes.led.LedParameter
+pymodaq.utils.parameter.pymodaq_ptypes.LedPushParameter, pymodaq_gui.parameter.pymodaq_ptypes.led.LedPushParameter
+pymodaq.utils.parameter.pymodaq_ptypes.ListParameter, pymodaq_gui.parameter.pymodaq_ptypes.list.ListParameter
+pymodaq.utils.parameter.pymodaq_ptypes.NumericParameter, pymodaq_gui.parameter.pymodaq_ptypes.numeric.NumericParameter
+pymodaq.utils.parameter.pymodaq_ptypes.PixmapCheckParameter, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.PixmapCheckParameter
+pymodaq.utils.parameter.pymodaq_ptypes.PixmapParameter, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.PixmapParameter
+pymodaq.utils.parameter.pymodaq_ptypes.PlainTextPbParameter, pymodaq_gui.parameter.pymodaq_ptypes.text.PlainTextPbParameter
+pymodaq.utils.parameter.pymodaq_ptypes.SliderParameter, pymodaq_gui.parameter.pymodaq_ptypes.slide.SliderParameter
+pymodaq.utils.parameter.pymodaq_ptypes.SliderSpinBox, pymodaq_gui.parameter.pymodaq_ptypes.slide.SliderSpinBox
+pymodaq.utils.parameter.pymodaq_ptypes.TableParameter, pymodaq_gui.parameter.pymodaq_ptypes.table.TableParameter
+pymodaq.utils.parameter.pymodaq_ptypes.TableViewParameter, pymodaq_gui.parameter.pymodaq_ptypes.tableview.TableViewParameter
+pymodaq.utils.parameter.pymodaq_ptypes.TimeParameter, pymodaq_gui.parameter.pymodaq_ptypes.date.TimeParameter
+pymodaq.utils.parameter.pymodaq_ptypes.bool, pymodaq_gui.parameter.pymodaq_ptypes.bool.bool
+pymodaq.utils.parameter.pymodaq_ptypes.date, pymodaq_gui.parameter.pymodaq_ptypes.date.date
+pymodaq.utils.parameter.pymodaq_ptypes.filedir, pymodaq_gui.parameter.pymodaq_ptypes.filedir.filedir
+pymodaq.utils.parameter.pymodaq_ptypes.itemselect, pymodaq_gui.parameter.pymodaq_ptypes.itemselect.itemselect
+pymodaq.utils.parameter.pymodaq_ptypes.led, pymodaq_gui.parameter.pymodaq_ptypes.led.led
+pymodaq.utils.parameter.pymodaq_ptypes.list, pymodaq_gui.parameter.pymodaq_ptypes.list.list
+pymodaq.utils.parameter.pymodaq_ptypes.numeric, pymodaq_gui.parameter.pymodaq_ptypes.numeric.numeric
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.pixmap
+pymodaq.utils.parameter.pymodaq_ptypes.slide, pymodaq_gui.parameter.pymodaq_ptypes.slide.slide
+pymodaq.utils.parameter.pymodaq_ptypes.tableview, pymodaq_gui.parameter.pymodaq_ptypes.tableview.tableview
+pymodaq.utils.parameter.pymodaq_ptypes.text, pymodaq_gui.parameter.pymodaq_ptypes.text.text
+pymodaq.utils.parameter.pymodaq_ptypes.bool.BoolPushParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.bool.BoolPushParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.date.DateParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.date.DateParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.date.DateTimeParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.date.DateTimeParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.date.QTimeCustom, pymodaq_gui.parameter.pymodaq_ptypes.date.QTimeCustom
+pymodaq.utils.parameter.pymodaq_ptypes.date.TimeParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.date.TimeParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.filedir.FileDirParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.filedir.FileDirParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.filedir.FileDirWidget, pymodaq_gui.parameter.pymodaq_ptypes.filedir.FileDirWidget
+pymodaq.utils.parameter.pymodaq_ptypes.itemselect.ItemSelect, pymodaq_gui.parameter.pymodaq_ptypes.itemselect.ItemSelect
+pymodaq.utils.parameter.pymodaq_ptypes.itemselect.ItemSelectParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.itemselect.ItemSelectParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.itemselect.ItemSelect_pb, pymodaq_gui.parameter.pymodaq_ptypes.itemselect.ItemSelect_pb
+pymodaq.utils.parameter.pymodaq_ptypes.led.LedParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.led.LedParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.led.LedPushParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.led.LedPushParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.list.Combo_pb, pymodaq_gui.parameter.pymodaq_ptypes.list.Combo_pb
+pymodaq.utils.parameter.pymodaq_ptypes.list.ListParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.list.ListParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap.PixmapCheckData, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.PixmapCheckData
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap.PixmapCheckParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.PixmapCheckParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap.PixmapCheckWidget, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.PixmapCheckWidget
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap.PixmapParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.PixmapParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap.main_parameter, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.main_parameter
+pymodaq.utils.parameter.pymodaq_ptypes.pixmap.main_widget, pymodaq_gui.parameter.pymodaq_ptypes.pixmap.main_widget
+pymodaq.utils.parameter.pymodaq_ptypes.slide.SliderParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.slide.SliderParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.slide.scroll_linear, pymodaq_gui.parameter.utils.scroll_linear
+pymodaq.utils.parameter.pymodaq_ptypes.slide.scroll_log, pymodaq_gui.parameter.utils.scroll_log
+pymodaq.utils.parameter.pymodaq_ptypes.table.TableParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.table.TableParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.table.TableWidget, pymodaq_gui.parameter.pymodaq_ptypes.table.TableWidget
+pymodaq.utils.parameter.pymodaq_ptypes.tableview.TableViewParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.tableview.TableViewParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.text.PlainTextParameterItem, pymodaq_gui.parameter.pymodaq_ptypes.text.PlainTextParameterItem
+pymodaq.utils.parameter.pymodaq_ptypes.text.PlainTextWidget, pymodaq_gui.parameter.pymodaq_ptypes.text.PlainTextWidget
+pymodaq.utils.parameter.utils.ParameterWithPath, pymodaq_gui.parameter.utils.ParameterWithPath
+pymodaq.utils.parameter.utils.compareParameters, pymodaq_gui.parameter.utils.compareParameters
+pymodaq.utils.parameter.utils.compareStructureParameter, pymodaq_gui.parameter.utils.compareStructureParameter
+pymodaq.utils.parameter.utils.compareValuesParameter, pymodaq_gui.parameter.utils.compareValuesParameter
+pymodaq.utils.parameter.utils.getOpts, pymodaq_gui.parameter.utils.getOpts
+pymodaq.utils.parameter.utils.getStruct, pymodaq_gui.parameter.utils.getStruct
+pymodaq.utils.parameter.utils.getValues, pymodaq_gui.parameter.utils.getValues
+pymodaq.utils.parameter.utils.get_param_dict_from_name, pymodaq_gui.parameter.utils.get_param_dict_from_name
+pymodaq.utils.parameter.utils.is_name_in_dict, pymodaq_gui.parameter.utils.is_name_in_dict
+pymodaq.utils.parameter.utils.iter_children_params, pymodaq_gui.parameter.utils.iter_children_params
+pymodaq.utils.parameter.utils.set_param_from_param, pymodaq_gui.parameter.utils.set_param_from_param
+pymodaq.utils.plotting.data_viewers, pymodaq_gui.plotting.data_viewers.data_viewers
+pymodaq.utils.plotting.image_viewer, pymodaq_gui.plotting.image_viewer.image_viewer
+pymodaq.utils.plotting.items, pymodaq_gui.plotting.items.items
+pymodaq.utils.plotting.navigator, pymodaq_gui.plotting.navigator.navigator
+pymodaq.utils.plotting.plotter, pymodaq_gui.plotting.plotter.plotter
+pymodaq.utils.plotting.scan_selector, didnt move
+pymodaq.utils.plotting.data_viewers.DATA_TYPES, didnt move
+pymodaq.utils.plotting.data_viewers.viewer, pymodaq_gui.plotting.data_viewers.viewer.viewer
+pymodaq.utils.plotting.data_viewers.viewer0D, pymodaq_gui.plotting.data_viewers.viewer0D.viewer0D
+pymodaq.utils.plotting.data_viewers.viewer1D, pymodaq_gui.plotting.data_viewers.viewer1D.viewer1D
+pymodaq.utils.plotting.data_viewers.viewer1Dbasic, pymodaq_gui.plotting.data_viewers.viewer1Dbasic.viewer1Dbasic
+pymodaq.utils.plotting.data_viewers.viewer2D, pymodaq_gui.plotting.data_viewers.viewer2D.viewer2D
+pymodaq.utils.plotting.data_viewers.viewer2D_basic, pymodaq_gui.plotting.data_viewers.viewer2D_basic.viewer2D_basic
+pymodaq.utils.plotting.data_viewers.viewerND, pymodaq_gui.plotting.data_viewers.viewerND.viewerND
+pymodaq.utils.plotting.data_viewers.base.RoiInfo, pymodaq_gui.plotting.utils.plot_utils.RoiInfo
+pymodaq.utils.plotting.data_viewers.viewer.config_viewers, didnt move
+pymodaq.utils.plotting.data_viewers.viewer.create_viewer0D, pymodaq_gui.plotting.data_viewers.viewer.create_viewer0D
+pymodaq.utils.plotting.data_viewers.viewer.create_viewer1D, pymodaq_gui.plotting.data_viewers.viewer.create_viewer1D
+pymodaq.utils.plotting.data_viewers.viewer.create_viewer2D, pymodaq_gui.plotting.data_viewers.viewer.create_viewer2D
+pymodaq.utils.plotting.data_viewers.viewer.create_viewerND, pymodaq_gui.plotting.data_viewers.viewer.create_viewerND
+pymodaq.utils.plotting.data_viewers.viewer.get_viewer_enum_from_axes, pymodaq_gui.plotting.data_viewers.viewer.get_viewer_enum_from_axes
+pymodaq.utils.plotting.data_viewers.viewer0D.Data0DWithHistory, pymodaq_gui.plotting.utils.plot_utils.Data0DWithHistory
+pymodaq.utils.plotting.data_viewers.viewer0D.DataDisplayer, pymodaq_gui.plotting.data_viewers.viewer0D.DataDisplayer
+pymodaq.utils.plotting.data_viewers.viewer0D.PLOT_COLORS, didnt move
+pymodaq.utils.plotting.data_viewers.viewer0D.PlotWidget, pymodaq_gui.plotting.widgets.PlotWidget
+pymodaq.utils.plotting.data_viewers.viewer0D.View0D, pymodaq_gui.plotting.data_viewers.viewer0D.View0D
+pymodaq.utils.plotting.data_viewers.viewer0D.main_view, pymodaq_gui.plotting.data_viewers.viewer0D.main_view
+pymodaq.utils.plotting.data_viewers.viewer1D.Crosshair, pymodaq_gui.plotting.items.crosshair.Crosshair
+pymodaq.utils.plotting.data_viewers.viewer1D.Filter1DFromCrosshair, pymodaq_gui.plotting.utils.filter.Filter1DFromCrosshair
+pymodaq.utils.plotting.data_viewers.viewer1D.Filter1DFromRois, pymodaq_gui.plotting.utils.filter.Filter1DFromRois
+pymodaq.utils.plotting.data_viewers.viewer1D.View1D, pymodaq_gui.plotting.data_viewers.viewer1D.View1D
+pymodaq.utils.plotting.data_viewers.viewer1D.main_errors, pymodaq_gui.plotting.data_viewers.viewer1D.main_errors
+pymodaq.utils.plotting.data_viewers.viewer1D.main_extra_scatter, pymodaq_gui.plotting.data_viewers.viewer1D.main_extra_scatter
+pymodaq.utils.plotting.data_viewers.viewer1D.main_nans, pymodaq_gui.plotting.data_viewers.viewer1D.main_nans
+pymodaq.utils.plotting.data_viewers.viewer1D.main_random, pymodaq_gui.plotting.data_viewers.viewer1D.main_random
+pymodaq.utils.plotting.data_viewers.viewer1D.main_unsorted, pymodaq_gui.plotting.data_viewers.viewer1D.main_unsorted
+pymodaq.utils.plotting.data_viewers.viewer1D.main_view1D, pymodaq_gui.plotting.data_viewers.viewer1D.main_view1D
+pymodaq.utils.plotting.data_viewers.viewer1D.make_dashed_pens, pymodaq_gui.plotting.utils.plot_utils.make_dashed_pens
+pymodaq.utils.plotting.data_viewers.viewer1Dbasic.Viewer1DBasic, pymodaq_gui.plotting.data_viewers.viewer1Dbasic.Viewer1DBasic
+pymodaq.utils.plotting.data_viewers.viewer2D.AXIS_POSITIONS, didnt move
+pymodaq.utils.plotting.data_viewers.viewer2D.AxisItem_Scaled, pymodaq_gui.plotting.items.axis_scaled.AxisItem_Scaled
+pymodaq.utils.plotting.data_viewers.viewer2D.COLORS_DICT, didnt move
+pymodaq.utils.plotting.data_viewers.viewer2D.COLOR_LIST, pymodaq_utils.utils.COLOR_LIST
+pymodaq.utils.plotting.data_viewers.viewer2D.Filter2DFromCrosshair, pymodaq_gui.plotting.utils.filter.Filter2DFromCrosshair
+pymodaq.utils.plotting.data_viewers.viewer2D.Filter2DFromRois, pymodaq_gui.plotting.utils.filter.Filter2DFromRois
+pymodaq.utils.plotting.data_viewers.viewer2D.Gradients, didnt move
+pymodaq.utils.plotting.data_viewers.viewer2D.Histogrammer, pymodaq_gui.plotting.data_viewers.viewer2D.Histogrammer
+pymodaq.utils.plotting.data_viewers.viewer2D.IMAGE_TYPES, didnt move
+pymodaq.utils.plotting.data_viewers.viewer2D.ImageDisplayer, pymodaq_gui.plotting.data_viewers.viewer2D.ImageDisplayer
+pymodaq.utils.plotting.data_viewers.viewer2D.ImageWidget, pymodaq_gui.plotting.widgets.ImageWidget
+pymodaq.utils.plotting.data_viewers.viewer2D.IsoCurver, pymodaq_gui.plotting.data_viewers.viewer2D.IsoCurver
+pymodaq.utils.plotting.data_viewers.viewer2D.SpreadImageItem, pymodaq_gui.plotting.items.image.SpreadImageItem
+pymodaq.utils.plotting.data_viewers.viewer2D.UniformImageItem, pymodaq_gui.plotting.items.image.UniformImageItem
+pymodaq.utils.plotting.data_viewers.viewer2D.View2D, pymodaq_gui.plotting.data_viewers.viewer2D.View2D
+pymodaq.utils.plotting.data_viewers.viewer2D.crosshair_pens, didnt move
+pymodaq.utils.plotting.data_viewers.viewer2D.generate_uniform_data, pymodaq_gui.plotting.data_viewers.viewer2D.generate_uniform_data
+pymodaq.utils.plotting.data_viewers.viewer2D.histogram_factory, pymodaq_gui.plotting.data_viewers.viewer2D.histogram_factory
+pymodaq.utils.plotting.data_viewers.viewer2D.image_item_factory, pymodaq_gui.plotting.data_viewers.viewer2D.image_item_factory
+pymodaq.utils.plotting.data_viewers.viewer2D.main_spread, pymodaq_gui.plotting.data_viewers.viewer2D.main_spread
+pymodaq.utils.plotting.data_viewers.viewer2D.plot_data, pymodaq_gui.plotting.data_viewers.viewer2D.plot_data
+pymodaq.utils.plotting.data_viewers.viewer2D.print_roi_select, pymodaq_gui.plotting.data_viewers.viewer2D.print_roi_select
+pymodaq.utils.plotting.data_viewers.viewer2D_basic.Viewer2DBasic, pymodaq_gui.plotting.data_viewers.viewer2D_basic.Viewer2DBasic
+pymodaq.utils.plotting.data_viewers.viewerND.AxesViewer, pymodaq_gui.plotting.utils.axes_viewer.AxesViewer
+pymodaq.utils.plotting.data_viewers.viewerND.BaseDataDisplayer, pymodaq_gui.plotting.data_viewers.viewerND.BaseDataDisplayer
+pymodaq.utils.plotting.data_viewers.viewerND.DEBUG_VIEWER, didnt move
+pymodaq.utils.plotting.data_viewers.viewerND.SpreadDataDisplayer, pymodaq_gui.plotting.data_viewers.viewerND.SpreadDataDisplayer
+pymodaq.utils.plotting.data_viewers.viewerND.UniformDataDisplayer, pymodaq_gui.plotting.data_viewers.viewerND.UniformDataDisplayer
+pymodaq.utils.plotting.image_viewer.Image_Viewer, pymodaq_gui.plotting.image_viewer.Image_Viewer
+pymodaq.utils.plotting.image_viewer.Window, pymodaq_gui.plotting.image_viewer.Window
+pymodaq.utils.plotting.items.axis_scaled, pymodaq_gui.plotting.items.axis_scaled.axis_scaled
+pymodaq.utils.plotting.items.crosshair, pymodaq_gui.plotting.items.crosshair.crosshair
+pymodaq.utils.plotting.items.image, pymodaq_gui.plotting.items.image.image
+pymodaq.utils.plotting.items.image.PymodaqImage, pymodaq_gui.plotting.items.image.PymodaqImage
+pymodaq.utils.plotting.items.image.makeAlphaTriangles, pymodaq_gui.plotting.utils.plot_utils.makeAlphaTriangles
+pymodaq.utils.plotting.items.image.makePolygons, pymodaq_gui.plotting.utils.plot_utils.makePolygons
+pymodaq.utils.plotting.navigator.Ntick, didnt move
+pymodaq.utils.plotting.navigator.colors_blue, didnt move
+pymodaq.utils.plotting.navigator.colors_green, didnt move
+pymodaq.utils.plotting.navigator.colors_red, didnt move
+pymodaq.utils.plotting.navigator.navigator_path, didnt move
+pymodaq.utils.plotting.scan_selector.PolyLineROI, didnt move
+pymodaq.utils.plotting.scan_selector.QVector, pymodaq_gui.plotting.utils.plot_utils.QVector
+pymodaq.utils.plotting.scan_selector.RectangularRoi, didnt move
+pymodaq.utils.plotting.scan_selector.Selector, didnt move
+pymodaq.utils.plotting.scan_selector.SelectorFactory, didnt move
+pymodaq.utils.plotting.scan_selector.SelectorWrapper, didnt move
+pymodaq.utils.plotting.scan_selector.main_fake_scan, didnt move
+pymodaq.utils.plotting.scan_selector.main_navigator, didnt move
+pymodaq.utils.plotting.scan_selector.selector_factory, didnt move
+pymodaq.utils.plotting.utils.axes_viewer, pymodaq_gui.plotting.utils.axes_viewer.axes_viewer
+pymodaq.utils.plotting.utils.filter, pymodaq_gui.plotting.utils.filter.filter
+pymodaq.utils.plotting.utils.lineout, pymodaq_gui.plotting.utils.lineout.lineout
+pymodaq.utils.plotting.utils.plot_utils, pymodaq_gui.plotting.utils.plot_utils.plot_utils
+pymodaq.utils.plotting.utils.signalND, didnt move
+pymodaq.utils.plotting.utils.filter.Filter, pymodaq_gui.plotting.utils.filter.Filter
+pymodaq.utils.plotting.utils.lineout.LineoutPlotter, pymodaq_gui.plotting.utils.lineout.LineoutPlotter
+pymodaq.utils.plotting.utils.lineout.curve_item_factory, pymodaq_gui.plotting.utils.lineout.curve_item_factory
+pymodaq.utils.plotting.utils.plot_utils.Vector, pymodaq_gui.plotting.utils.plot_utils.Vector
+pymodaq.utils.plotting.utils.plot_utils.View_cust, pymodaq_gui.plotting.utils.plot_utils.View_cust
+pymodaq.utils.plotting.utils.plot_utils.get_sub_segmented_positions, pymodaq_gui.plotting.utils.plot_utils.get_sub_segmented_positions
+pymodaq.utils.plotting.utils.signalND.AxesManager, didnt move
+pymodaq.utils.plotting.utils.signalND.DataAxis, didnt move
+pymodaq.utils.plotting.utils.signalND.FancySlicing, didnt move
+pymodaq.utils.plotting.utils.signalND.SpecialSlicers, pymodaq_data.slicing.SpecialSlicers
+pymodaq.utils.plotting.utils.signalND.SpecialSlicersSignal, didnt move
+pymodaq.utils.plotting.utils.signalND.add_scalar_axis, didnt move
+pymodaq.utils.plotting.utils.signalND.attrgetter, didnt move
+pymodaq.utils.plotting.utils.signalND.attrsetter, didnt move
+pymodaq.utils.plotting.utils.signalND.generate_axis, didnt move
+pymodaq.utils.plotting.utils.signalND.isfloat, didnt move
+pymodaq.utils.plotting.utils.signalND.iterable_not_string, didnt move
+pymodaq.utils.plotting.utils.signalND.math, didnt move
+pymodaq.utils.qvariant.API_NAME, didnt move
+pymodaq.utils.scanner.scan_config, didnt move
+pymodaq.utils.scanner.scan_factory, didnt move
+pymodaq.utils.scanner.scanners, didnt move
+pymodaq.utils.scanner.scan_config.ScanConfig, didnt move
+pymodaq.utils.scanner.scan_factory.ScanParameterManager, didnt move
+pymodaq.utils.scanner.scan_factory.ScannerFactory, didnt move
+pymodaq.utils.scanner.scanner.ScanInfo, didnt move
+pymodaq.utils.scanner.scanners._1d_scanners, didnt move
+pymodaq.utils.scanner.scanners._2d_scanners, didnt move
+pymodaq.utils.scanner.scanners.sequential, didnt move
+pymodaq.utils.scanner.scanners.tabular, didnt move
+pymodaq.utils.scanner.scanners._1d_scanners.Scan1DBase, didnt move
+pymodaq.utils.scanner.scanners._1d_scanners.Scan1DLinear, didnt move
+pymodaq.utils.scanner.scanners._1d_scanners.Scan1DRandom, didnt move
+pymodaq.utils.scanner.scanners._1d_scanners.Scan1DSparse, didnt move
+pymodaq.utils.scanner.scanners._2d_scanners.Scan2DBase, didnt move
+pymodaq.utils.scanner.scanners._2d_scanners.Scan2DLinear, didnt move
+pymodaq.utils.scanner.scanners._2d_scanners.Scan2DLinearBF, didnt move
+pymodaq.utils.scanner.scanners._2d_scanners.Scan2DRandom, didnt move
+pymodaq.utils.scanner.scanners._2d_scanners.Scan2DSpiral, didnt move
+pymodaq.utils.scanner.scanners.sequential.SequentialScanner, didnt move
+pymodaq.utils.scanner.scanners.sequential.TableModelSequential, didnt move
+pymodaq.utils.scanner.scanners.tabular.TableModelTabularReadOnly, didnt move
+pymodaq.utils.scanner.scanners.tabular.TabularScanner, didnt move
+pymodaq.utils.scanner.scanners.tabular.TabularScannerSubSegmented, didnt move
+pymodaq.utils.scanner.utils.ScannerException, didnt move
+pymodaq.utils.scanner.utils.register_scanner, didnt move
+pymodaq.utils.scanner.utils.register_scanners, didnt move
+pymodaq.utils.svg.svg_renderer, didnt move
+pymodaq.utils.svg.svg_view, didnt move
+pymodaq.utils.svg.svg_viewer2D, didnt move
+pymodaq.utils.svg.svg_renderer.QSvgWidget, didnt move
+pymodaq.utils.svg.svg_renderer.QtSvg, didnt move
+pymodaq.utils.svg.svg_view.GraphicsView, didnt move
+pymodaq.utils.svg.svg_view.SVGView, didnt move
+pymodaq.utils.tcp_ip.mysocket, didnt move
+pymodaq.utils.tcp_ip.serializer, didnt move
+pymodaq.utils.tcp_ip.tcp_server_client, didnt move
+pymodaq.utils.tcp_ip.mysocket.socket, didnt move
+pymodaq.utils.tcp_ip.serializer.SocketString, didnt move
+pymodaq.utils.tcp_ip.serializer.b64decode, didnt move
+pymodaq.utils.tcp_ip.serializer.b64encode, didnt move
+pymodaq.utils.tcp_ip.tcp_server_client.Grabber, didnt move
+pymodaq.utils.tcp_ip.tcp_server_client.MockDataGrabber, didnt move
+pymodaq.utils.tcp_ip.tcp_server_client.MockServer, didnt move
+pymodaq.utils.tcp_ip.tcp_server_client.Timer, didnt move
+pymodaq.utils.tcp_ip.tcp_server_client.select, didnt move
+pymodaq.utils.units.Cb, didnt move
+pymodaq.utils.units.E_J2eV, pymodaq_utils.units.E_J2eV
+pymodaq.utils.units.Ecmrel2Enm, pymodaq_utils.units.Ecmrel2Enm
+pymodaq.utils.units.Enm2cmrel, pymodaq_utils.units.Enm2cmrel
+pymodaq.utils.units.c, didnt move
+pymodaq.utils.units.cm2nm, pymodaq_utils.units.cm2nm
+pymodaq.utils.units.eV2E_J, pymodaq_utils.units.eV2E_J
+pymodaq.utils.units.eV2cm, pymodaq_utils.units.eV2cm
+pymodaq.utils.units.eV2nm, pymodaq_utils.units.eV2nm
+pymodaq.utils.units.eV2radfs, pymodaq_utils.units.eV2radfs
+pymodaq.utils.units.h, didnt move
+pymodaq.utils.units.l2w, pymodaq_utils.units.l2w
+pymodaq.utils.units.nm2cm, pymodaq_utils.units.nm2cm
+pymodaq.utils.units.nm2eV, pymodaq_utils.units.nm2eV
