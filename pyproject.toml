@@ -1,0 +1,60 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "module-explorer"
+dynamic = ["version"]
+description = 'developping a python module explorer to get the conversion between pymodaq to modular pymodaq_'
+readme = "README.md"
+requires-python = "==3.11.*"
+license = "MIT"
+keywords = []
+authors = [
+  { name = "Loic GUILMARD", email = "loic.guilmard@cnrs.fr" },
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: PyPy",
+]
+dependencies = []
+
+[project.urls]
+Documentation = "https://github.com/Loic GUILMARD/module-explorator#readme"
+Issues = "https://github.com/Loic GUILMARD/module-explorator/issues"
+Source = "https://github.com/Loic GUILMARD/module-explorator"
+
+[tool.hatch.version]
+path = "src/module_explorator/__about__.py"
+
+[tool.hatch.envs.types]
+extra-dependencies = [
+]
+[tool.hatch.envs.types.scripts]
+#check = "mypy --install-types --non-interactive {args:src/module_explorator tests}"
+
+[tool.coverage.run]
+source_pkgs = ["module_explorator", "tests"]
+branch = true
+parallel = true
+omit = [
+  "src/module_explorator/__about__.py",
+]
+
+[tool.coverage.paths]
+module_explorator = ["src/module_explorator", "*/module-explorator/src/module_explorator"]
+tests = ["tests", "*/module-explorator/tests"]
+
+[tool.coverage.report]
+exclude_lines = [
+  "no cov",
+  "if __name__ == .__main__.:",
+  "if TYPE_CHECKING:",
+]
