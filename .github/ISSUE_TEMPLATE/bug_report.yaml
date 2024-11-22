@@ -34,20 +34,8 @@ body:
       File or path needed to locate/visualize the issue.
       If applicable, add screenshots to help explain your problem.
       If applicable, give the python path of the incriminated function/class.
-      example:
-         ```python
-            try:
-                if config('user', 'loadlast') and config('user', 'lastloadok'):
-                    logger.warning("Automatically loading"+str(config('user', 'lastpreset')))
-                    self.set_file_preset(self.preset_path / Path(config('user', 'lastpreset')+'.xml'))
-            except configmod.ConfigError as ke_error:
-                logger.warning(repr(ke_error))
-         ```
     value: |
        pymodaq.utils.config.deep_update
-      ```python
-      
-      ```
     render: markdown
   validations:
     required: false
